@@ -1,0 +1,7 @@
+D:\csharp\week2\task2\task2\task2\bin\Debug\task2.exe.config
+D:\csharp\week2\task2\task2\task2\bin\Debug\task2.exe
+D:\csharp\week2\task2\task2\task2\bin\Debug\task2.pdb
+D:\csharp\week2\task2\task2\task2\obj\Debug\task2.csprojAssemblyReference.cache
+D:\csharp\week2\task2\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\csharp\week2\task2\task2\task2\obj\Debug\task2.exe
+D:\csharp\week2\task2\task2\task2\obj\Debug\task2.pdb

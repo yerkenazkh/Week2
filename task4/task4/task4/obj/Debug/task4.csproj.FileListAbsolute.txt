@@ -1,0 +1,7 @@
+D:\csharp\week2\task4\task4\task4\bin\Debug\task4.exe.config
+D:\csharp\week2\task4\task4\task4\bin\Debug\task4.exe
+D:\csharp\week2\task4\task4\task4\bin\Debug\task4.pdb
+D:\csharp\week2\task4\task4\task4\obj\Debug\task4.csprojAssemblyReference.cache
+D:\csharp\week2\task4\task4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+D:\csharp\week2\task4\task4\task4\obj\Debug\task4.exe
+D:\csharp\week2\task4\task4\task4\obj\Debug\task4.pdb
